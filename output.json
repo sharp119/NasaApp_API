@@ -1,0 +1,61 @@
+{
+    "Imaginary Picture of Kepler-758 b Images": {
+        "": "./Planets/DeepBlueNeptune.bmp"
+    },
+    "Exoplanet Name": "Kepler-758 b",
+    "Alternate Name": "\"2MASS J19322030+4108075, KIC 5880320, KOI-1060, WISE J193220.32+410807.5\"",
+    "Status": "Confirmed",
+    "Radius (Rjup / Re)": "0.2210 (Rjup) 2.4772 (Rearth)",
+    "Mass   (Mjup / Me)": "0.0193 (Mjup) 6.1333 (Mearth)",
+    "Semi Major Axis / Orbital Distance Calculated": "0.0000 (AU) 0.1084 (AU Est.)",
+    "Eccentricity": "0.0000",
+    "Orbital Period(Yrs)": "0.0332",
+    "Orbital Period(Observed/Estimated)": "12.11 (Days Obs.) 0.00 (Days Est.)",
+    "Surface Gravity (G Earth)": "0.9995",
+    "Star Radiation at Atmospheric Boundary": "421135.9 (W/m2)",
+    "Measured Temperature (K)": "0.0 (K)",
+    "Blackbody T 0.1(K)": "1137.0 (K)",
+    "Blackbody T 0.3(K)": "1067.7 (K)",
+    "Blackbody T 0.7(K)": "863.9 (K)",
+    "Tidally Locked Blackbody T 0.1(K)": "1352.1 (K)",
+    "Tidally Locked Blackbody T 0.3(K)": "1269.8 (K)",
+    "Size Class": "sub-Neptune-size",
+    "Mass Class": "",
+    "Detection Type": "Primary Transit",
+    "Mass Detection": "",
+    "Radius Detection": "",
+    "Habitability by Solar Eq. Astronomical Unit": "Not habitable",
+    "Habitability by Kopparapu": "Not habitable",
+    "Star Name": "Kepler-758",
+    "Star Distance(LY)": "4899.6",
+    "Stellar Radius(Rsun)": "1.6 (Rsun Measured)",
+    "Stellar Mass(Msun)": "1.2 (Msun Measured) 1.2 (Msun Estimated)",
+    "Star Age": "3.8 (GY)",
+    "Temperature": "6360 (K)",
+    "Spectral type": "F8",
+    "UV portion[%]": "0.3",
+    "Visible portion[%]": "1.5",
+    "IR portion[%]": "98.2",
+    "Metalicity": "-0.1",
+    "Absolute Magnitude": "2.5",
+    "Apparent Magnitude": "13.4",
+    "Right Ascension(RA)": "293.0846",
+    "Declination   (DEC)": "41.1354",
+    "Hubble Space Telescope Guide Star Catalog (GSC) ID": "",
+    "Discovered by": "",
+    "Discovery Paper - Authors": "\"Timothy D. Morton, Stephen T. Bryson, Jeffrey L. Coughlin, Jason F. Rowe, Ganesh Ravichandran, Erik A. Petigura, Michael R. Haas, and Natalie M. Batalha\"",
+    "Discovery Paper - Title": "FALSE POSITIVE PROBABILITIES FOR ALL KEPLER OBJECTS OF INTEREST: 1284 NEWLY VALIDATED PLANETS AND 651 LIKELY FALSE POSITIVES",
+    "Discovery Paper - Journal": "0",
+    "Discovery Paper - URL Links": {
+        "0": "0"
+    },
+    "SIMBAD LINK Links": {
+        "http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Kepler-758+&submit=SIMBAD+search": "http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Kepler-758+&submit=SIMBAD+search"
+    },
+    "Open Exoplanet Database Link Links": {
+        "http://www.openexoplanetcatalogue.com/planet/Kepler-758%20b/": "http://www.openexoplanetcatalogue.com/planet/Kepler-758%20b/"
+    },
+    " Images": {
+        "": "Kepler-758_b_CEar.png"
+    }
+}

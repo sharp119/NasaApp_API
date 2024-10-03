@@ -1,0 +1,7 @@
+name: nasaapp
+dependencies:
+  - beautifulsoup4
+  - lxml  # lxml is often used by BeautifulSoup for parsing
+  - pip
+  - pip:
+      - json5  # If you specifically need to use json5; otherwise, remove this line

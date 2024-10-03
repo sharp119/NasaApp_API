@@ -1,0 +1,75 @@
+{
+    "Images": [
+        {
+            "Description": "",
+            "Source": "./Planets/DeepBlueNeptune.bmp"
+        },
+        {
+            "Description": "",
+            "Source": "Kepler-758_d_CSun.png"
+        },
+        {
+            "Description": "",
+            "Source": "Kepler-758_d_CJup.png"
+        },
+        {
+            "Description": "",
+            "Source": "Kepler-758_d_CNep.png"
+        },
+        {
+            "Description": "",
+            "Source": "Kepler-758_d_CEar.png"
+        },
+        {
+            "Description": "",
+            "Source": "Kepler-758_d_Orb.png"
+        },
+        {
+            "Description": "",
+            "Source": "Kepler-758_d_OrbH.png"
+        },
+        {
+            "Description": "",
+            "Source": "Kepler-758_d_OrbK.png"
+        },
+        {
+            "Description": "",
+            "Source": "Kepler-758_d_OrbKO.png"
+        },
+        {
+            "Description": "",
+            "Source": "Kepler-758_d_STZ0.png"
+        },
+        {
+            "Description": "",
+            "Source": "Kepler-758_d_STZ3.png"
+        },
+        {
+            "Description": "",
+            "Source": "Kepler-758_d_Spc.png"
+        }
+    ],
+    "Descriptive Lists": [
+        "Kepler-758 d is an exoplanet orbiting the star Kepler-758, located about 4899.6 light-years (1502.2 pc) away from Solar System. Its discovery was publicly announced on 2016.",
+        "The host star Kepler-758 has apparent magnitude of 13.4, with absolute magnitude of 2.5. It is 1.2 times more massive and 1.6 times bigger compared with our Sun. The surface temperature is 6360 with its spectral types of F8 \nIn this planetary system, the extrasolar planet Kepler-758 d orbits around the star Kepler-758 every 20.5 days  with its orbital distance of 0.15 AU ( 23039484.3 km) \n\n\n (Projected orbit of Kepler-758 d around its host star Kepler-758)\n\n\n\n\n\n\nThe Star Kepler-758 's habitable zone is located at the following distance\nInner Boundary (the orbital distance at Venus's Equivalent Radiation )\n : 1.377 AU ( 205943708.4 km) \n\nEarth Boundary (the orbital distance at Earth's Equivalent Radiation)\n : 1.903 AU ( 284668024.6 km) \n\nOuter Boundary (the orbital distance at Mars's  Equivalent Radiation)\n : 2.900 AU ( 433771072.5 km) \n\nSnow Line      (the orbital distance at Snow Line Equivalent Radiation)\n : 4.267 AU ( 638313135.5 km) \n\nRadiation at Planetary Boundary of Kepler-758 d    : 208780.99 W/m2               \n\n\n\n\n\n (Habitable zone calculated based on SEAU(Solar Equivalent Astronomical Unit) around the star Kepler-758)\n\n\n\n\n\n\n\nKopparapu Recent Venus for Star Kepler-758 distance    : 1.377 AU \n\nKopparapu Runaway Greenhouse for Earth-sized planet for Star Kepler-758 distance    : 1.744 AU \n\nKopparapu Runaway Greenhouse for Super-Earth-sized planet for Star Kepler-758 distance    : 1.685 AU \n\nKopparapu Runaway Greenhouse for Mars-sized planet for Star Kepler-758 distance    : 1.846 AU \n\nKopparapu Outer Boundary for Maximum Greenhouse for Star Kepler-758 distance    : 3.041 AU \n\nKopparapu Outer Boundary for Early Mars for Star Kepler-758 distance    : 3.208 AU \n\n\n\n\n\n (Habitable zone calculated based on Kopparapu et al.(2013) around the star Kepler-758)\n\n\n\n\n\n\n\nOriginal Kopparapu Recent Venus for Star Kepler-758 distance    : 1.397 AU \n\nOriginal Kopparapu Runaway Greenhouse for Star Kepler-758 distance    : 1.789 AU \n\nOriginal Kopparapu Moist Greenhouse for Star Kepler-758 distance    : 1.848 AU \n\nOriginal Kopparapu Outer Boundary for Maximum Greenhouse for Star Kepler-758 distance    : 3.096 AU \n\nOriginal Kopparapu Outer Boundary for Early Mars for Star Kepler-758 distance    : 3.220 AU \n\n\n\n\n\n (Habitable zone calculated based on Kopparapu et al.(Original) around the star Kepler-758)\n\n\n\n\n\n\n\n\n\n (Position in Stellar Map of star Kepler-758 and its Exoplanet Kepler-758 d)\n\n\n\n\n\n\n\n\n\n (Zoomed position in Stellar Map of star Kepler-758 and its Exoplanet Kepler-758 d (zoom level 3))\n\n\n\n\n\n\n\n(Synthetic Spectrum of star Kepler-758*)\n\n\n\n\n*Yamashiki YA et al. 2019 ApJ 881 114\n\nMUSCLES Paper I - France et al. 2016 ApJ 820 89\n\nMUSCLES Paper II- Youngblood et al. 2016 ApJ 824 101\n\nMUSCLES Paper III- Loyd et al. 2016 ApJ 824 102",
+        "It is 1.2 times more massive and 1.6 times bigger compared with our Sun. The surface temperature is 6360 with its spectral types of F8",
+        "In this planetary system, the extrasolar planet Kepler-758 d orbits around the star Kepler-758 every 20.5 days  with its orbital distance of 0.15 AU ( 23039484.3 km)",
+        "The Star Kepler-758 's habitable zone is located at the following distance",
+        "Inner Boundary (the orbital distance at Venus's Equivalent Radiation )\n : 1.377 AU ( 205943708.4 km)",
+        "Earth Boundary (the orbital distance at Earth's Equivalent Radiation)\n : 1.903 AU ( 284668024.6 km)",
+        "Outer Boundary (the orbital distance at Mars's  Equivalent Radiation)\n : 2.900 AU ( 433771072.5 km)",
+        "Snow Line      (the orbital distance at Snow Line Equivalent Radiation)\n : 4.267 AU ( 638313135.5 km)",
+        "Radiation at Planetary Boundary of Kepler-758 d    : 208780.99 W/m2",
+        "Kopparapu Recent Venus for Star Kepler-758 distance    : 1.377 AU",
+        "Kopparapu Runaway Greenhouse for Earth-sized planet for Star Kepler-758 distance    : 1.744 AU",
+        "Kopparapu Runaway Greenhouse for Super-Earth-sized planet for Star Kepler-758 distance    : 1.685 AU",
+        "Kopparapu Runaway Greenhouse for Mars-sized planet for Star Kepler-758 distance    : 1.846 AU",
+        "Kopparapu Outer Boundary for Maximum Greenhouse for Star Kepler-758 distance    : 3.041 AU",
+        "Kopparapu Outer Boundary for Early Mars for Star Kepler-758 distance    : 3.208 AU",
+        "Original Kopparapu Recent Venus for Star Kepler-758 distance    : 1.397 AU",
+        "Original Kopparapu Runaway Greenhouse for Star Kepler-758 distance    : 1.789 AU",
+        "Original Kopparapu Moist Greenhouse for Star Kepler-758 distance    : 1.848 AU",
+        "Original Kopparapu Outer Boundary for Maximum Greenhouse for Star Kepler-758 distance    : 3.096 AU",
+        "Original Kopparapu Outer Boundary for Early Mars for Star Kepler-758 distance    : 3.220 AU"
+    ]
+}
